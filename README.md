@@ -1,2 +1,2 @@
 # hello-world
-this is my aws repository 
+this is my repository 
